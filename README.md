@@ -8,7 +8,7 @@ I\`ve started to learn html/css basics about 1.5 years ago, now actively on my w
 
 * 🌍  I'm based in Omsk
 * ✉️  You can contact me at [atx157@gmail.com](mailto:atx157@gmail.com)
-* 🧠  I'm learning Javascript/Typescript/React
+* 🧠  I'm learning Javascript/Typescript/React/Vue
 
 ### Skills
 
